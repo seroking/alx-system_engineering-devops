@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo cp school.mgc /usr/share/file/magic/
+sudo cp school.mgc /alx-system_engineering-devops/0x00-shell_basics/magic/
