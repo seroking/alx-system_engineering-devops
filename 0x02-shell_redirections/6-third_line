@@ -1,2 +1,2 @@
-!#/bin/bash
-sed --line 3 iacta
+#!/bin/bash
+awk 'n==3' iacta
