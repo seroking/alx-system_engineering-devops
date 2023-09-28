@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# test multiple case in a loop
 
 i=1
 
