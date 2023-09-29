@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 # kill process
-#sero
 
-PROCESS_KILL="4-to_infinity_and_beyond"
+PROCESS_TO_KILL="4-to_infinity_and_beyond"
 
-pkill -f "${PROCESS_KILL}"
+pkill -f "${PROCESS_TO_KILL}"
